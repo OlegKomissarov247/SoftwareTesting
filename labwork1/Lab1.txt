@@ -27,4 +27,4 @@
 - "с": 01.01.1900, "по": DD.MM.YYYY
 - "с": DD.MM.YYYY, "по": DD.MM.YYYY
 - "с": 01.may.2019, "по": 01.may.2020
-- "с": edpde, "по": edewed
+- "с": edpde, "по": edewedr
